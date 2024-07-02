@@ -1,5 +1,4 @@
-
-![Bleu et Blanc Architecte LinkedIn Bannière (4)](https://github.com/IrouKaizen/irou/assets/122926735/6fd24f4a-14a8-48fd-9151-780d3bcfee2b)
+![Blue Orange Modern Gradient Design Channel YouTube Banner](https://github.com/IrouKaizen/IrouKaizen/assets/122926735/2a7d7f80-baff-4af1-a1c6-7297fc62abf7)
 
 <h1 align="center">Heyyyy 👋, I'm Irène AMEDJI alias irouKaizen</h1>
 
