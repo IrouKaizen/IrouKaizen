@@ -2,7 +2,7 @@
 
 <h1 align="center">Heyyyy 👋, I'm Irène AMEDJI alias irouKaizen</h1>
 
-<h3 align="center">Aspiring Angular & SpringBoot developer >>></h3>
+<h3 align="center"> Angular & SpringBoot developer >>></h3>
 
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0"> <br>
 
