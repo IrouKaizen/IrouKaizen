@@ -1,5 +1,5 @@
 
-![Blue Orange Modern Gradient Design Channel YouTube Banner (1)](https://github.com/user-attachments/assets/d09a763d-01df-4b37-8b5a-eaadf6ff39bf)
+![irban (1)](https://github.com/user-attachments/assets/ed12c0b8-cb66-4122-a41b-b73f0c0de6dd)
 
 <h1 align="center">Heyyyy 👋, I'm Irène AMEDJI alias irouKaizen</h1>
 
